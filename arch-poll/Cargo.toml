@@ -1,0 +1,9 @@
+# Cargo.toml
+
+[package]
+name = "arch-poll"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chukwudi Daniel Nwaneri <officialnwaneridaniel@gmail.com>"]
+description = "A decentralized voting smart contract for the Arch Ecosystem"
+readme = "README.md"
